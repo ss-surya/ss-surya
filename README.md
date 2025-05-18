@@ -26,6 +26,6 @@ Building scalable AI-powered solutions using state-of-the-art models.
 ## 💬 Ask me about
 Data Engineering, Data Science and AI.
 
-📫 Reach me at: sssurya3592@gmail.com
+📫 Reach me at: https://www.linkedin.com/in/surya-ss/
 
 🚀 Fun Fact: I love optimizing code for performance and automating complex workflows.
