@@ -1,4 +1,4 @@
-👋 Hello, I'm Surya
+# 👋 Hello, I'm Surya
 I'm a Data Scientist passionate about leveraging Large Language Models (LLMs) and Agentic AI to build scalable, intelligent solutions. I specialize in:
 
 - Data Engineering: Designing and implementing scalable data pipelines using PostgreSQL, SQL, and Python.
