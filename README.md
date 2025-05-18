@@ -7,11 +7,15 @@ I'm a Data Scientist passionate about leveraging Large Language Models (LLMs) an
 
 🔧 Tech Stack:
 
-- Programming: Python, SQL
-- Frameworks: Gradio, Flask, FastAPI, Streamlit
-- Database: PostgreSQL, SQLite, MongoDB
-- Cloud: Azure, AWS
-- Tools: Git, GitHub
+💻 Programming: Python, SQL
+
+⚡ Frameworks: Gradio, Flask, FastAPI, Streamlit
+
+🗄️ Database: PostgreSQL, SQLite, MongoDB
+
+☁️ Cloud: Azure, AWS
+
+🛠️ Tools: Git, GitHub
 
 🌱 Currently Exploring: Advanced LLM Architectures and Real-World Agentic AI Applications.
 
