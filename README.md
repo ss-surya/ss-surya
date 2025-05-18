@@ -14,7 +14,11 @@ I'm a Data Scientist passionate about leveraging Large Language Models (LLMs) an
 - Tools: Git, GitHub
 
 🌱 Currently Exploring: Advanced LLM Architectures and Real-World Agentic AI Applications.
+
 💡 Working on: Building scalable AI-powered solutions using state-of-the-art models.
+
 💬 Ask me about: Data Engineering, Data Science and AI.
+
 📫 Reach me at: sssurya3592@gmail.com
+
 🚀 Fun Fact: I love optimizing code for performance and automating complex workflows.
